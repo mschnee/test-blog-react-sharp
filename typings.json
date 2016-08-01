@@ -2,5 +2,16 @@
   "dependencies": {
     "react": "registry:npm/react#15.0.1+20160601175240",
     "react-dom": "registry:npm/react-dom#15.0.1+20160705210405"
+  },
+  "globalDevDependencies": {
+    "bluebird": "registry:dt/bluebird#2.0.0+20160701023356",
+    "ncp": "registry:dt/ncp#0.5.1+20160316155526",
+    "node": "registry:env/node#6.0.0+20160723033700",
+    "source-map": "registry:dt/source-map#0.0.0+20160317120654",
+    "uglify-js": "registry:dt/uglify-js#2.6.1+20160316155526",
+    "webpack": "registry:dt/webpack#1.12.9+20160724112410"
+  },
+  "devDependencies": {
+    "del": "registry:npm/del#2.2.0+20160416211512"
   }
 }

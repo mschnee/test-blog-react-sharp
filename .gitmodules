@@ -1,0 +1,6 @@
+[submodule "server/dependencies/GoogleAuthenticator"]
+	path = server/dependencies/GoogleAuthenticator
+	url = https://github.com/mschnee/GoogleAuthenticator
+[submodule "dependencies/GoogleAuthenticator"]
+	path = dependencies/GoogleAuthenticator
+	url = https://github.com/mschnee/GoogleAuthenticator

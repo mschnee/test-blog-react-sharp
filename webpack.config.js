@@ -1,6 +1,7 @@
 'use strict';
 
 let HtmlWebpackPlugin = require('html-webpack-plugin');
+let FailPlugin = require('webpack-fail-plugin');
 
 module.exports = {
     entry: './src/index.ts',
@@ -9,6 +10,7 @@ module.exports = {
         filename: 'bundle.js',
     },
     plugins: [
+        FailPlugin,
         new HtmlWebpackPlugin()
     ],
     resolve: {

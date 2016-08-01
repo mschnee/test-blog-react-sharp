@@ -1,0 +1,6 @@
+{
+    "projects": [
+        "server",
+        "dependencies/GoogleAuthenticator"
+    ]
+}

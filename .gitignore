@@ -1,3 +1,4 @@
 dist/*
+typings/*
 .vscode/
 node_modules/
